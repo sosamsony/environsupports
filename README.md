@@ -1,11 +1,3 @@
-# acildeprem TR
-Bu proje Türkiyedeki depremin yaralarını sarabilmek amacıyla üretildi.
-Ama her depremde olduğu gibi bu deprem de bize bir şeyler öğretti.
-Bir depremde en önemli şey, birbirimizi desteklemek ve yardıma koşmak.
-Dünyadan birçok ekip ve insan bize yardımcı oldu. Biz de bu projeyi açık kaynak olarak paylaşarak, dünyanın her yerinden insanlara yardımcı olmaya çalışıyoruz.
-
-Deprem her an her yerde. Biz hazırız, tüm dünya için. Tüm kaynaklarımız açık kaynak ve erişilebilir.
-
 # acildeprem EN
 This project is produced in order to heal the wounds of the earthquake in Turkey.
 But as in every earthquake, this earthquake offers us something.
